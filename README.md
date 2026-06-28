@@ -3,7 +3,9 @@
 These files are mirrored to [Skyocean-International/decks](https://github.com/Skyocean-International/decks) and served via [jsDelivr](https://www.jsdelivr.com/) so skyocean.io/pitch-deck and skyocean.io/commercial-pitch-deck can load them in the browser (CORS-enabled).
 
 - **pitch-deck.pptx** — full pitch deck  
-- **commercial-pitch-deck.pptx** — commercial (non-blockchain) deck  
+- **commercial-pitch-deck.pptx** — commercial (non-blockchain) deck (English)
+- **commercial-pitch-deck-es.pptx** — commercial deck (Spanish / Latin America)
+  - PDF: commercial-pitch-deck-es.pdf → served at https://skyocean.io/commercial-pitch-deck-es/  
 
 ## Workflow (single source of truth: this folder in skyocean-docs)
 

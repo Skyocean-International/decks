@@ -1,0 +1,317 @@
+Connecting Investors to International
+         Commodity Trade
+Executive Summary                                                                                                     Skyocean Platform Components
+                                                                                                                                     Friendly UI for
+                                                                                                                                    buyers, sellers &
+Company Overview
+                                                                                                                                        investors
+Commodity trading company with a proprietary platform, that allows private,
+institutional and retail investors to proﬁt from physical commodity contracts
+
+Skyocean ﬁnances and procures the goods in its name, sells the cargo to end buyers
+and arranges logistics                                                                                  Skyocean Operational                                  Native Tokens & Smart
+                                                                                                        Banking for payment                                     Contracts for trade
+Bridging the $2.6T International Trade Gap that stems from lack of SME ﬁnancing                                                                               ﬁnancing and milestone
+                                                                                                             settlement
+                                                                                                                                                                    veriﬁcation
+Founded in 2021 with entities in the US, Paraguay, North Macedonia - Panama &
+Lithuania pending
+
+Trading company with ongoing operations and 150K angel investment
+
+Bootstrapped & founder-owned and managed - 15 years of shared team experience in
+                                                                                                                                  Blockchain-based
+commodity trading                                                                                                                 database for trade
+                                                                                                                                     data storage
+
+Company
+Highlights                                                                                                            Skyocean USPs
+                                               Team
+                                                                                                                      Skyocean turns the SME cross-border trade gap into a proﬁtable trading
+Fully Functional                                                                                                      operation, enabling investors to make ROI from physical commodity trade
+MVP
+                                                                                                                      Strong supply-chain management allows greater ﬂexibility around buyer
+                                                                                Gaurav Yadav   Andrius Petkevicius    defaults unlike competitors
+Signed trade                                                                        CTO          Legal Advisory
+agreement with                                                                                                        Skyocean owns the commodity, retaining portion of end sale proﬁts
+Sudan govt                                                                                                            without charging interest
+
+Launching pilot                 Sebastian Gonzalez      Alexey Deshin
+                                                                                                                      Exchanging documents on the blockchain accelerates payment settlement,
+trade contracts                                                                                                       shortens trade cycle duration & increases annual proﬁtability
+                                 CEO/Co-founder         CGO/Advisor
+as part of                                                                                                            Native Tokens unlock new retail liquidity for commodity trading, efﬁciently
+~$282M annual                                                                   Elias Nartey   Mustafa Alhamare       scaling Skyocean’s working capital and diversifying risk for all investors
+pipeline in Sudan                                                                    PR         Manager Sudan
+Skyocean Platform and Operational Flow
+
+                                                                                                       Deal Flow
+                 Skyocean Platform Components
+                                                                                      Buyer submits purchase order on the platform
+                                    Front-end
+                              Platform with a friendly                                  Buyer gets a quote and approves the trade
+                                UI to visualize trade                                agreement with Skyocean. Database generates a
+                             deals, their status, and an                                   unique Transaction ID for the deal.
+                              AI trade data assistant
+
+
+                                                                                     Investors ﬁnance a portion of the deal by locking
+                                                                                     their tokens on the platform. The rest is ﬁnanced
+                                                            Smart Contracts &                      by Skyocean’s capital.
+     Skyocean                                                Native Tokens
+Operational Banking                                        Smart Contracts enable      Skyocean procures the commodity, insures the
+Crypto/Fiat conversion,                                      Native Token sales,      cargo, initiates freight, and ensures all shipping
+                                                            collect deal ﬁnancing,   documents are issued and veriﬁed in the database
+operational transfers &
+ payment settlement                                         verify deal milestones
+                                                            and distribute proﬁts      Buyer pays Skyocean for the goods - bank
+                                                                                             transfer, crypto, LC, CAD, etc
+
+                                                                                         Buyer receives the goods at end destination
+                           Decentralised Knowledge
+                                    Graph
+                          Blockchain-based database with                             Proﬁts are distributed to Skyocean and investors
+                            AI document processing and                                     who ﬁnanced through the platform
+                             data asset creation/storage
+                                                                                       Smart Contract veriﬁes trade cycle completion and
+                                                                                         distributes proﬁts to investors’ crypto wallets
+Effortless Participation in International Trade with a Pleasant UX
+Intuitive UI allows merchants and token holders to easily submit requests/offers, invest in trade deals, and access insights—no technical expertise required
+
+
+
+
+ Front-end
+                                                                                                         Front-end
+ Key Features
+                                                                                                         Key Beneﬁts
+ Merchant & Token Holder portals on the Skyocean platform
+                                                                                                         Accessible for stakeholders of all technical levels, no blockchain
+                                                                                                         knowledge required
+ Merchants submit buy/supply requests/offers for physical goods
+
+                                                                                                         Save time managing portfolios and submitting RFQs or offers
+ Token Holders view portfolios, invest in trade contracts, get insights
+Leveraging Blockchain technology to increase speed of operation, unlock new liquidity and create data security
+Smart Contracts automate deal ﬁnancing & create transparency, Native Tokens enable international investment, Decentralised Database (DKG) provides data security & integrity
+
+
+
+  Smart Contracts, Native Tokens and DKG                                                             Smart Contracts, Native Tokens and DKG
+
+  Key Features                                                                                       Key Beneﬁts
+
+  Smart Contracts issue tokens to investors, collect tokens for deal                                 Smart Contract infrastructure is visible to investors, creating
+  ﬁnancing, verify supply-chain milestones and distribute proﬁts                                     transparency and trust, while automating the ﬁnancing process
+
+
+  Investors fund trade deals by locking their Native SKYT Tokens                                     Tokens unlock an international pool of retail investors - a new
+  on the platform                                                                                    source of liquidity for commodity trading
+
+  DKG processes documents with AI, creates data assets and                                           Reduces document veriﬁcation time and costs by 99.9% and uses
+  stores them on the blockchain, feeding data to Smart Contracts                                     decentralized data storage for enterprise-grade data security
+Solutions with Skyocean
+
+Situation: ~50% SMEs can not participate in international trade due to lack of ﬁnancing from traditional banks1
+
+       Competitors neglect SMEs completely or offer                                                      Skyocean
+         expensive lending, without managing the                                  ﬁnances SME cross-border trade by procuring goods in
+                      supply-chain                                               its name and selling the cargo to end buyers for a proﬁt,
+                                                                                        while managing most of the supply-chain
+
+     Regulatory usury caps prevent banks from charging
+     higher interest on loans for sub-$50M trade deals,                          Skyocean’s ownership of goods enables risk-based
+     severely limiting ﬁnancing for SME buyers                                   pricing, allowing to ﬁnance SME buyers
+
+
+     Sellers give SME buyers unfavorable contract terms and                      Skyocean offers better terms to buyers, processes
+     banks are slow to process documents and settle LCs                          documents on the blockchain & settles payments quickly
+
+     High interest on small/medium-sized contracts raises                        Skyocean owns the product, prices it fairly and makes
+     costs, making them economically unfeasible for buyers                       deals economically feasible for SME buyers — no interest
+     relying on smaller lenders                                                  charged
+
+     Lack of direct access to buyers forces SME sellers to                       Skyocean platform connects SME sellers, end buyers and
+     work with large corporations on difﬁcult terms                              investors, resulting in better terms for all parties
+
+     SME sellers suffer working capital gaps from buyer                          Skyocean stabilizes cashﬂow by paying SME sellers early,
+     payment delays or defaults                                                  while solving buyer defaults through order re-routing
+
+     Traditional trading boutique working capital is difﬁcult to                 SKYT Token public offering efﬁciently scales working
+     scale amid high rates and fragmented private funding                        capital, ﬁnancing more deals and further diversifying risk
+
+     Retail investors are shut out of international trade                        SKYT Tokens enable international retail to invest in trade
+
+                                                                   World Bank1
+Supplying essential commodities to institutional and private clients in Africa, Latin America and Asia
+
+                                         Market Overview
+Business Model                                                             Skyocean Pipeline in Sudan - Govt partnership signed, LOI in progress
+
+Trade contract proﬁts        TAM is the International                                                                Sudan govt
+                                                                                             1st year pilot
+                             Trade Gap                                                                      1st year max annual      Max annual
+Token sales
+                                                                  $2.6T    Commodity         pipeline
+                                                                                             volume
+                                                                                                            revenue demand to be     revenue
+                                                                                                                                                Source
+Trading Services                                                                                                     fulfilled
+                             (10% of global trade)
+                                                                           Wheat / Flour     28,250 MT    ~$11.3M 360,000 MT         ~$144M     Turkey
+
+                             SAM is 10%                                    Sugar             28,250 MT    ~$11.3M 240,000 MT         ~$96M      Brazil
+Customer Proﬁle              (Africa, Latin America              $260B     Milk Powder       -            -         240 containers   ~$12M      Poland
+National Trade/Investment    and South-East Asia
+                             markets)                                                        -                      480 containers
+Ministries                                                                 Sunflower Oil                  -                          ~$14.4M    Turkey
+
+Trade Organisations                                                        Lentils / Pasta   -            -         Mixed            ~$15.6M    Turkey/Italy
+                             SOM is 20-25% of SAM
+Local Importers/Traders
+                             (Trade routes: Africa-EU            $52-65B
+International Traders        / LATAM-EU / Asia-EU /
+                                                                               Total                      ~$22.6M                    ~$282M
+                             Intra-regional)
+
+
+ Partners                               Commodity Focus                     Legal Framework
+                                        Agricultural Products
+ Ministry of Investment of
+                                        Industrial Equipment                Initial Native Token is a SAFT/mirror token issued via Panama entity to
+ Republic of Sudan                      Construction Materials              scale trading operations, manage compliance, establish a testing buffer.
+                                        FMCG
+ Port of Thessaloniki                                                       Main SKYT token issued after testing phase through Lithuanian entity,
+                                        Other containerised cargo & bulk
+ Origin Trail                           materials                           aligned with MiCA and CASP regulatory compliance.
+Skyocean creates a new way of investing in essential commodity trade
+
+                                                                                       Skyocean comparison with other solutions
+ Skyocean allows investors to ﬁnance physical commodity
+ contracts, which enables SMEs to trade internationally.
+ We manage most of the supply-chain and accelerate speed of                                                Drip Capital   Centrifuge   Bank
+
+ trading operations with our tech to achieve greater ﬂexibility and
+                                                                        Quick ﬁnancing of
+ maximize annual proﬁtability through shorter trade cycles.                   SMEs
+
+
+                                                                        Data Integrity and
+                                                                          Transparency
+
+
+                                                                      Flexibility from Supply
+                                                                       Chain Management
+
+
+                                                                       Retention of Trading
+                                                                              Proﬁts
+
+
+                                                                       Fast documentation
+                                                                            exchange
+
+
+                                                                         Lower collateral
+                                                                          requirements
+
+
+                                                                        Charging Interest
+
+
+                                                                      International Investor
+                                                                           Participation
+
+
+                                                                           Friendly UX
+Roadmap
+
+Going Live, Scaling Working Capital, Pilot Program Launch in Africa
+
+
+Skyocean is                                        MVP Live, Pilot                                          Fulﬁlling all contracts of the
+                                                                                                            ~$22M pilot pipeline, expanding
+trading                                            Program Signed,
+                                                                                                            in Sudan and Ghana, attracting
+aerospace parts                                    Active Fundraising                                       institutional liquidity providers
+
+
+
+
+                          Q2 2025                                                  Q4 2026
+
+
+
+    Q4 2023                                            Q2 2026                                                         Q2 2027
+
+
+
+
+                  First platform infrastructure,                        Ofﬁcial platform, Smart Contracts
+                                                                        and ﬁrst Native Token live, fulﬁlling
+                  integration with Origin Trail
+                                                                        the ﬁrst contract of the ~$22M
+                  Blockchain database
+                                                                        Sudan pilot pipeline
+  Financial Analytics and Projections
+
+   Pre-seed Round Target: 2M
+
+Use of Funds
+
+  Type                       Amount
+
+  Working Capital for        1.7M
+  Trade Financing
+
+  SG&A:                      300,000
+  Smart Contract & Platform Full Launch
+  Smart Contract / Web3 Security Audit
+  SaaS tools and Hosting
+  Marketing
+  Legal & Compliance
+
+
+
+Return Forecast
+
+Skyocean avg margin per trade 12.4%
+
+Retail avg ROI per trade               3.86%
+
+Number of trades per year               7
+
+
+EBITDA YoY growth forecast             ~160%
+Retail investor annual return           ~27%
+
+
+Disclaimer: These revenue projections are based on analysis and assumptions. While we aim for accuracy, actual results may vary due to uncertainties. Consultation with ﬁnancial experts is advised. Assumed 2M
+  pre-seed equity raise. Assumed 0.4-2% cost of capital at 10% of contract value ﬁnanced by retail & 30-40% ﬁnanced by institutions from Year 3 onwards. Proﬁt margin of a trade contract assumed at 6-20%.
+                                  sebastian@skyocean.io
+
+
+
+             Sebastian Gonzalez
+              CEO/Co-founder
+
+
+
+
+                                   alexey@skyocean.io
+
+
+
+               Alexey Deshin
+Contact Us     CGO/Advisor
+
+
+
+
+                                    elias@skyocean.io
+
+
+
+                Elias Nartey
+                     PR
+
