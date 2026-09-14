@@ -11,7 +11,7 @@ so skyocean.io/commercial-pitch-deck can load the PDF in the browser. The page l
 
 The Spanish deck (`commercial-pitch-deck-es.pdf` and its `.pptx`) was retired on 13 September 2026.
 It was last updated in June 2026, two content generations behind the English deck, and still carried
-the retired yield range and wording. Its page, skyocean.io/commercial-pitch-deck-es/, was removed with it.
+the retired yield range and wording. Its page, skyocean.io/commercial-pitch-deck-es/, now redirects to the English deck.
 
 **Do not add plain-text extractions of a deck to this folder.** Two lived here
 (`commercial-pages.txt`, `pitch-deck.txt`), both extracted in June 2026 from March 2026 decks, and
